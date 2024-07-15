@@ -2,11 +2,11 @@
   "videos": [
     {
       "title": "Learning Kotlin",
-      "video_url": "https://example.com/kotlin.mp4"
+      "video_url": "https://github.com/Nawaz-u/videos/blob/main/VID-20240629-WA0015.mp4"
     },
     {
       "title": "Introduction to Compose",
-      "video_url": "https://example.com/compose.mp4"
+      "video_url": "https://github.com/Nawaz-u/videos/blob/main/VID-20240702-WA0023.mp4"
     }
   ]
 }
