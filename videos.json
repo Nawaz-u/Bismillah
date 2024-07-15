@@ -1,0 +1,12 @@
+{
+  "videos": [
+    {
+      "title": "Learning Kotlin",
+      "video_url": "https://example.com/kotlin.mp4"
+    },
+    {
+      "title": "Introduction to Compose",
+      "video_url": "https://example.com/compose.mp4"
+    }
+  ]
+}
